@@ -37,3 +37,10 @@ nav {
     margin-bottom: 30px;
     border-radius: 8px;
 }
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
