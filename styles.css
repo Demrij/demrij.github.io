@@ -49,3 +49,14 @@ nav ul li a:hover {
     background-color: lightblue;
     color: aliceblue;
 }
+
+#about {
+    margin-bottom: 40px;
+}
+
+#about h2 {
+    font-size: 2.5rem;
+    color: antiquewhite;
+    margin-bottom: 10px;
+
+}
