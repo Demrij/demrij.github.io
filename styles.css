@@ -59,6 +59,8 @@ nav ul li a:hover {
     color: antiquewhite;
     margin-bottom: 10px;
     text-transform: uppercase;
-    
+}
 
+#about p {
+    margin-bottom: 20px;
 }
