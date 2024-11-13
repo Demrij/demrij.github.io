@@ -58,5 +58,7 @@ nav ul li a:hover {
     font-size: 2.5rem;
     color: antiquewhite;
     margin-bottom: 10px;
+    text-transform: uppercase;
+    
 
 }
