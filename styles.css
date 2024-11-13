@@ -76,6 +76,13 @@ nav ul li a:hover {
 
 #intrests ul {
     list-style-type: square;
-    margin-left: 30px;
-    
+    margin-left: 30px; 
 }
+
+#projects p {
+    font-size: 1.3rem;
+    margin-bottom: 20px;
+}
+
+
+
