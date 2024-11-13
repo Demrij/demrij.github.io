@@ -44,3 +44,8 @@ nav ul {
     justify-content: center;
     align-items: center;
 }
+
+nav ul li a:hover {
+    background-color: lightblue;
+    color: aliceblue;
+}
