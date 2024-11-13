@@ -68,3 +68,9 @@ nav ul li a:hover {
 #intrests {
     margin: 40px;
 }
+
+#intrests h3 {
+    font-size: 2rem;
+    color: lightgray;
+}
+
