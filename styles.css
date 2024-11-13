@@ -74,3 +74,8 @@ nav ul li a:hover {
     color: lightgray;
 }
 
+#intrests ul {
+    list-style-type: square;
+    margin-left: 30px;
+    
+}
