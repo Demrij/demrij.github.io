@@ -76,6 +76,7 @@ nav ul li a:hover {
 
 #intrests ul {
     list-style-type: square;
+    list-style: none;
     margin-left: 30px; 
     margin: 20px 0;
     background-color: lavender;
@@ -98,6 +99,10 @@ nav ul li a:hover {
     background-color: lavender;
     border-radius: 12px;
     box-shadow: 0 4px 12px rgba(0.3, 0.3, 0.3, 0.3);
+}
+
+#Contact ul {
+    list-style: none;
 }
 
 
