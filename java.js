@@ -9,6 +9,10 @@ window.onload = function() {
         greetingMessage = "Good Morning!";
         greetingClass = "morning-style";
     } else if (hour >= 12 && hour <= 17) {
-        
+        greetingMessage = "Good Afternoon!";
+        greetingClass = "afternoon-style";
+    } else {
+        greetingMessage = "Good Evening!";
+        greetingClass = "evening-style";
     }
 }
