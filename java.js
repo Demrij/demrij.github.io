@@ -4,4 +4,11 @@ window.onload = function() {
     const hour = new Date().getHours();
     let greetingMessage = "";
     let greetingClass = "";
+
+    if (hour < 12) {
+        greetingMessage = "Good Morning!";
+        greetingClass = "morning-style";
+    } else if (hour >= 12 && hour <= 17) {
+        
+    }
 }
