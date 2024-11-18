@@ -25,3 +25,9 @@ const currentYear = new Date().getFullYear();
 footerText.innerHTML = '&copy; Demri Johnson IDD Portfolio, ${currentYear}. All rights reserved.';
 
 console.log("Todays's Date: " + new Date());
+
+const alertButton = document.getElementById("btn-alert");
+alertButton.onclick = function() {
+    alert("Hello There!");
+    
+}
