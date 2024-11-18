@@ -15,4 +15,8 @@ window.onload = function() {
         greetingMessage = "Good Evening!";
         greetingClass = "evening-style";
     }
-}
+
+    greetingElement.textContent = greetingMessage;
+    greetingElement.className = greetingClass;
+};
+
