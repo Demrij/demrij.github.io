@@ -32,7 +32,7 @@ alertButton.onclick = function() {
 };
 
 alertButton.onmouseover = function() {
-    alertButton.textContent = "HI!";
+    alertButton.textContent = "HELLO!";
 };
 alertButton.onmouseout = function() {
     alertButton.textContent = "Click Me";   
