@@ -28,6 +28,13 @@ console.log("Todays's Date: " + new Date());
 
 const alertButton = document.getElementById("btn-alert");
 alertButton.onclick = function() {
-    alert("Thanks for checking out my page!");
-    
-}
+    alert("Thanks for checking out my page!");   
+};
+
+alertButton.onmouseover = function() {
+    alertButton.textContent = "HI!";
+};
+alertButton.onmouseout = function() {
+    alertButton.textContent = "Click Me";   
+};
+
