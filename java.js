@@ -20,3 +20,7 @@ window.onload = function() {
     greetingElement.className = greetingClass;
 };
 
+const footerText = document.getElementById("footer-text");
+const currentYear = new Date().getFullYear();
+footerText.innerHTML = '&copy; Demri Johnson IDD Portfolio, ${currentYear}. All rights reserved.';
+
