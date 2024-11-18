@@ -114,6 +114,28 @@ footer {
 
 }
 
+.morning-style {
+    color: darkgreen;
+    background-color: aquamarine;
+    padding: 10px;
+    border: 2px solid darkgreen;
+    border-radius: 5px;
+}
 
+.afternoon-style {
+    color: blueviolet;
+    background-color: darkgray;
+    padding: 10px;
+    border: 10px;
+    border-radius: 5px;
+}
+
+.evening-style {
+    color: darkblue;
+    background-color: palevioletred;
+    padding: 10px;
+    border: 5px midnightblue;
+    border-radius: 5px;
+}
 
 
