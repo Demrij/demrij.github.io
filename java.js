@@ -38,4 +38,9 @@ alertButton.onmouseout = function() {
     alertButton.textContent = "Click Me";   
 };
 
+const footerText = document.getElementById("footer-text");
+    const currentYear = new Date().getFullYear();
+    const fullDate = new Date().toDateString(); 
+
+    footerText.innerHTML = `&copy; Demri Johnson IDD Portfolio, All rights reserved. <br> Today's Date: ${fullDate}';
 
